@@ -218,35 +218,4 @@ Users can follow this guide to:
 4. Understand the codebase
 5. Troubleshoot issues
 6. Make modifications
-
-The guide assumes no prior setup and walks through every step needed to get the system running.
-No supported language or shell commands found in the text.
-2024-11-05 16:14:53,743 - INFO - Set code_value status to True for session: cdf6ff4e-2a98-40fa-9e32-09d05f1b0883
-Updated conversation with role: assistant
-Handled debug code generation.
-```markdown
-(stock_predictor/README.md)
-code:
-# Stock Predictor Pro
-
-A professional stock prediction tool that uses machine learning to analyze stocks and provide buy/sell recommendations with technical indicators.
-
-## Features
-
-- Real-time stock search with auto-suggestions
-- Technical analysis with multiple indicators:
-  - Moving Averages (MA20, MA50, MA200)
-  - Relative Strength Index (RSI)
-  - Volume Analysis
-  - Candlestick Charts
-- Interactive charts with drawing tools
-- Dark/Light theme support
-- Buy/Sell predictions with confidence scores
-
-## Installation
-
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/stock_predictor.git
-cd stock_predictor
 ```
