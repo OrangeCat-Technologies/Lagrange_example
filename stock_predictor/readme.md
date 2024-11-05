@@ -250,14 +250,3 @@ A professional stock prediction tool that uses machine learning to analyze stock
 git clone https://github.com/yourusername/stock_predictor.git
 cd stock_predictor
 ```
-
-2. Create and activate a virtual environment:
-```bash
-# Windows
-python -m venv venv
-venv\Scripts\activate
-
-# Linux/Mac
-python3 -m venv venv
-source venv/bin/activate
-```
